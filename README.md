@@ -11,9 +11,9 @@ Projet réalisé dans le cadre d'un projet universitaire à l'Université Laval.
 
 ### Technologies utilisées:
 - Python
-- TKinter
-- Math
-- Random
+- Tkinter
+- math
+- random
 
 ### Aperçu du jeu de canon:
 #### Entrée
