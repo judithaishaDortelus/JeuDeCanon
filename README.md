@@ -1,5 +1,5 @@
 # Jeu De Canon
-Interface graphique d'un jeu de canon développée en Python selon une architeecture orientée objet.
+Interface graphique d'un jeu de canon développée en Python selon une architecture orientée objet.
 Met en oeuvre la modélisation physique, la gestion des collision et une interface utilisateur interactive.
 Réalisé dans le cadre d'un projet universitaire à l'Univesité Laval.
 
