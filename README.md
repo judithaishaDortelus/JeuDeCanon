@@ -34,3 +34,5 @@ Lorsqu'une collision avec la cible est détectée, le joueur passe au niveau sui
 En fin de partie, le joueur enregistre son nom pour sauvegarder son score qui est conservé dans un fichier texte (.txt). Il est possible de consulter le tableau des 10 meilleurs joueurs en tout temps.
 <img width="1094" height="850" alt="03 1" src="https://github.com/user-attachments/assets/e4f4d179-4022-4fd0-995e-04f5b8541573" />
 <img width="1097" height="851" alt="04" src="https://github.com/user-attachments/assets/197e58e5-2089-4c87-a3c0-3120b9cad474" />
+
+<!--Ce projet démontre une excellente maîtrise des concepts de programmation orientée objet, de modélisation physique et de développement d'interfaces graphiques interactives.-->
